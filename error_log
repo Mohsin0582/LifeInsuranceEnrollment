@@ -1,0 +1,10 @@
+[01-Aug-2018 22:35:20 UTC] PHP Notice:  Undefined variable: quote in /home/n54v7d6qbt0g/public_html/htdocs/lifeinsuranceenrollment.com/email.php on line 2
+[01-Aug-2018 22:35:20 UTC] PHP Notice:  Undefined variable: number in /home/n54v7d6qbt0g/public_html/htdocs/lifeinsuranceenrollment.com/email.php on line 3
+[01-Aug-2018 22:35:20 UTC] PHP Notice:  Undefined variable: name in /home/n54v7d6qbt0g/public_html/htdocs/lifeinsuranceenrollment.com/email.php on line 4
+[01-Aug-2018 22:35:45 UTC] PHP Notice:  Undefined variable: quote in /home/n54v7d6qbt0g/public_html/htdocs/lifeinsuranceenrollment.com/email.php on line 2
+[01-Aug-2018 22:35:45 UTC] PHP Notice:  Undefined variable: number in /home/n54v7d6qbt0g/public_html/htdocs/lifeinsuranceenrollment.com/email.php on line 3
+[01-Aug-2018 22:35:45 UTC] PHP Notice:  Undefined variable: name in /home/n54v7d6qbt0g/public_html/htdocs/lifeinsuranceenrollment.com/email.php on line 4
+[01-Aug-2018 22:44:28 UTC] PHP Notice:  Undefined variable: quote in /home/n54v7d6qbt0g/public_html/htdocs/lifeinsuranceenrollment.com/email.php on line 2
+[01-Aug-2018 22:44:28 UTC] PHP Notice:  Undefined variable: number in /home/n54v7d6qbt0g/public_html/htdocs/lifeinsuranceenrollment.com/email.php on line 3
+[01-Aug-2018 22:44:28 UTC] PHP Notice:  Undefined variable: name in /home/n54v7d6qbt0g/public_html/htdocs/lifeinsuranceenrollment.com/email.php on line 4
+[01-Aug-2018 23:17:51 UTC] PHP Notice:  Undefined variable: email in /home/n54v7d6qbt0g/public_html/htdocs/lifeinsuranceenrollment.com/email.php on line 13
